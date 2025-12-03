@@ -7,8 +7,11 @@ The final solution includes a **Streamlit web application** where users can inpu
 
 ## Team Members
 Rikithaa Sai Dakoju               700763230
+
 Ponduru Vaishnavi                 700780632
+
 Menaka Naga Sai Pothina           700772418
+
 Dasireddy Bharath reddy           700766401
 
 
