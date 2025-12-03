@@ -26,4 +26,4 @@ Dasireddy Bharath reddy           700766401
 1. Install required packages:
    ```bash
    pip install -r requirements.txt
-  streamlit run app.py
+2. streamlit run app.py
